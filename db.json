@@ -1,0 +1,847 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019
+    },
+    {
+      "id": "2",
+      "make": "Volvo",
+      "model": "S60",
+      "year": 2020
+    },
+    {
+      "id": "3",
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2016
+    },
+    {
+      "id": "4",
+      "make": "Toyota",
+      "model": "Highlander",
+      "year": 2025
+    },
+    {
+      "id": "5",
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "year": 2025
+    },
+    {
+      "id": "6",
+      "make": "Hyundai",
+      "model": "Sonata",
+      "year": 2021
+    },
+    {
+      "id": "7",
+      "make": "Volvo",
+      "model": "XC90",
+      "year": 2020
+    },
+    {
+      "id": "8",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2024
+    },
+    {
+      "id": "9",
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "year": 2026
+    },
+    {
+      "id": "10",
+      "make": "Audi",
+      "model": "A3",
+      "year": 2017
+    },
+    {
+      "id": "11",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2026
+    },
+    {
+      "id": "12",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2025
+    },
+    {
+      "id": "13",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2020
+    },
+    {
+      "id": "14",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2025
+    },
+    {
+      "id": "15",
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "year": 2016
+    },
+    {
+      "id": "16",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2019
+    },
+    {
+      "id": "17",
+      "make": "Audi",
+      "model": "A3",
+      "year": 2024
+    },
+    {
+      "id": "18",
+      "make": "BMW",
+      "model": "5 Series",
+      "year": 2017
+    },
+    {
+      "id": "19",
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "year": 2022
+    },
+    {
+      "id": "20",
+      "make": "BMW",
+      "model": "X5",
+      "year": 2026
+    },
+    {
+      "id": "21",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2020
+    },
+    {
+      "id": "22",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2024
+    },
+    {
+      "id": "23",
+      "make": "Tesla",
+      "model": "Model X",
+      "year": 2016
+    },
+    {
+      "id": "24",
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": 2018
+    },
+    {
+      "id": "25",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "year": 2026
+    },
+    {
+      "id": "26",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2025
+    },
+    {
+      "id": "27",
+      "make": "Volvo",
+      "model": "V90",
+      "year": 2025
+    },
+    {
+      "id": "28",
+      "make": "Mazda",
+      "model": "MX-5 Miata",
+      "year": 2017
+    },
+    {
+      "id": "29",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2023
+    },
+    {
+      "id": "30",
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2019
+    },
+    {
+      "id": "31",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2017
+    },
+    {
+      "id": "32",
+      "make": "Mazda",
+      "model": "CX-9",
+      "year": 2022
+    },
+    {
+      "id": "33",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2024
+    },
+    {
+      "id": "34",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2017
+    },
+    {
+      "id": "35",
+      "make": "Volvo",
+      "model": "S60",
+      "year": 2018
+    },
+    {
+      "id": "36",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2024
+    },
+    {
+      "id": "37",
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "year": 2017
+    },
+    {
+      "id": "38",
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "year": 2016
+    },
+    {
+      "id": "39",
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2024
+    },
+    {
+      "id": "40",
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2018
+    },
+    {
+      "id": "41",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2015
+    },
+    {
+      "id": "42",
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "year": 2017
+    },
+    {
+      "id": "43",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2020
+    },
+    {
+      "id": "44",
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "year": 2025
+    },
+    {
+      "id": "45",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2016
+    },
+    {
+      "id": "46",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2018
+    },
+    {
+      "id": "47",
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2015
+    },
+    {
+      "id": "48",
+      "make": "Subaru",
+      "model": "Forester",
+      "year": 2024
+    },
+    {
+      "id": "49",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2015
+    },
+    {
+      "id": "50",
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2017
+    },
+    {
+      "id": "51",
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2025
+    },
+    {
+      "id": "52",
+      "make": "Volvo",
+      "model": "XC90",
+      "year": 2025
+    },
+    {
+      "id": "53",
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": 2023
+    },
+    {
+      "id": "54",
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "year": 2022
+    },
+    {
+      "id": "55",
+      "make": "Mazda",
+      "model": "Mazda3",
+      "year": 2019
+    },
+    {
+      "id": "56",
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2026
+    },
+    {
+      "id": "57",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2025
+    },
+    {
+      "id": "58",
+      "make": "BMW",
+      "model": "5 Series",
+      "year": 2018
+    },
+    {
+      "id": "59",
+      "make": "Audi",
+      "model": "A6",
+      "year": 2023
+    },
+    {
+      "id": "60",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2021
+    },
+    {
+      "id": "61",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": 2015
+    },
+    {
+      "id": "62",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2026
+    },
+    {
+      "id": "63",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2016
+    },
+    {
+      "id": "64",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2023
+    },
+    {
+      "id": "65",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2017
+    },
+    {
+      "id": "66",
+      "make": "Honda",
+      "model": "Odyssey",
+      "year": 2022
+    },
+    {
+      "id": "67",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019
+    },
+    {
+      "id": "68",
+      "make": "Mazda",
+      "model": "MX-5 Miata",
+      "year": 2019
+    },
+    {
+      "id": "69",
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": 2023
+    },
+    {
+      "id": "70",
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": 2017
+    },
+    {
+      "id": "71",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2025
+    },
+    {
+      "id": "72",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2022
+    },
+    {
+      "id": "73",
+      "make": "Volvo",
+      "model": "XC60",
+      "year": 2020
+    },
+    {
+      "id": "74",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2025
+    },
+    {
+      "id": "75",
+      "make": "Toyota",
+      "model": "Highlander",
+      "year": 2020
+    },
+    {
+      "id": "76",
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "year": 2026
+    },
+    {
+      "id": "77",
+      "make": "Mazda",
+      "model": "CX-9",
+      "year": 2022
+    },
+    {
+      "id": "78",
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2026
+    },
+    {
+      "id": "79",
+      "make": "Nissan",
+      "model": "Frontier",
+      "year": 2020
+    },
+    {
+      "id": "80",
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2024
+    },
+    {
+      "id": "81",
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2026
+    },
+    {
+      "id": "82",
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "year": 2018
+    },
+    {
+      "id": "83",
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2021
+    },
+    {
+      "id": "84",
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2024
+    },
+    {
+      "id": "85",
+      "make": "BMW",
+      "model": "7 Series",
+      "year": 2015
+    },
+    {
+      "id": "86",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2017
+    },
+    {
+      "id": "87",
+      "make": "Audi",
+      "model": "A6",
+      "year": 2015
+    },
+    {
+      "id": "88",
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "year": 2023
+    },
+    {
+      "id": "89",
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "year": 2025
+    },
+    {
+      "id": "90",
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2019
+    },
+    {
+      "id": "91",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2017
+    },
+    {
+      "id": "92",
+      "make": "Volvo",
+      "model": "S60",
+      "year": 2022
+    },
+    {
+      "id": "93",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2016
+    },
+    {
+      "id": "94",
+      "make": "Ford",
+      "model": "Fusion",
+      "year": 2020
+    },
+    {
+      "id": "95",
+      "make": "Ford",
+      "model": "Fusion",
+      "year": 2016
+    },
+    {
+      "id": "96",
+      "make": "Toyota",
+      "model": "Prius",
+      "year": 2018
+    },
+    {
+      "id": "97",
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2019
+    },
+    {
+      "id": "98",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "year": 2025
+    },
+    {
+      "id": "99",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2025
+    },
+    {
+      "id": "100",
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2020
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "Afghanistan",
+      "language": "Pashto, Dari",
+      "continent": "Asia"
+    },
+    {
+      "id": "2",
+      "name": "Albania",
+      "language": "Albanian",
+      "continent": "Europe"
+    },
+    {
+      "id": "3",
+      "name": "Algeria",
+      "language": "Arabic, Berber",
+      "continent": "Africa"
+    },
+    {
+      "id": "4",
+      "name": "Andorra",
+      "language": "Catalan",
+      "continent": "Europe"
+    },
+    {
+      "id": "5",
+      "name": "Angola",
+      "language": "Portuguese",
+      "continent": "Africa"
+    },
+    {
+      "id": "6",
+      "name": "Antigua and Barbuda",
+      "language": "English",
+      "continent": "North America"
+    },
+    {
+      "id": "7",
+      "name": "Argentina",
+      "language": "Spanish",
+      "continent": "South America"
+    },
+    {
+      "id": "8",
+      "name": "Armenia",
+      "language": "Armenian",
+      "continent": "Asia"
+    },
+    {
+      "id": "9",
+      "name": "Australia",
+      "language": "English",
+      "continent": "Oceania"
+    },
+    {
+      "id": "10",
+      "name": "Austria",
+      "language": "German",
+      "continent": "Europe"
+    },
+    {
+      "id": "11",
+      "name": "Azerbaijan",
+      "language": "Azerbaijani",
+      "continent": "Asia"
+    },
+    {
+      "id": "12",
+      "name": "Bahamas",
+      "language": "English",
+      "continent": "North America"
+    },
+    {
+      "id": "13",
+      "name": "Bahrain",
+      "language": "Arabic",
+      "continent": "Asia"
+    },
+    {
+      "id": "14",
+      "name": "Bangladesh",
+      "language": "Bengali",
+      "continent": "Asia"
+    },
+    {
+      "id": "15",
+      "name": "Barbados",
+      "language": "English",
+      "continent": "North America"
+    },
+    {
+      "id": "16",
+      "name": "Belarus",
+      "language": "Belarusian, Russian",
+      "continent": "Europe"
+    },
+    {
+      "id": "17",
+      "name": "Belgium",
+      "language": "Dutch, French, German",
+      "continent": "Europe"
+    },
+    {
+      "id": "18",
+      "name": "Belize",
+      "language": "English",
+      "continent": "North America"
+    },
+    {
+      "id": "19",
+      "name": "Benin",
+      "language": "French",
+      "continent": "Africa"
+    },
+    {
+      "id": "20",
+      "name": "Bhutan",
+      "language": "Dzongkha",
+      "continent": "Asia"
+    },
+    {
+      "id": "21",
+      "name": "Bolivia",
+      "language": "Spanish, Quechua, Aymara",
+      "continent": "South America"
+    },
+    {
+      "id": "22",
+      "name": "Bosnia and Herzegovina",
+      "language": "Bosnian, Croatian, Serbian",
+      "continent": "Europe"
+    },
+    {
+      "id": "23",
+      "name": "Botswana",
+      "language": "English, Tswana",
+      "continent": "Africa"
+    },
+    {
+      "id": "24",
+      "name": "Brazil",
+      "language": "Portuguese",
+      "continent": "South America"
+    },
+    {
+      "id": "25",
+      "name": "Brunei",
+      "language": "Malay",
+      "continent": "Asia"
+    },
+    {
+      "id": "26",
+      "name": "Bulgaria",
+      "language": "Bulgarian",
+      "continent": "Europe"
+    },
+    {
+      "id": "27",
+      "name": "Burkina Faso",
+      "language": "French",
+      "continent": "Africa"
+    },
+    {
+      "id": "28",
+      "name": "Burundi",
+      "language": "Kirundi, French",
+      "continent": "Africa"
+    },
+    {
+      "id": "29",
+      "name": "Cabo Verde",
+      "language": "Portuguese",
+      "continent": "Africa"
+    },
+    {
+      "id": "30",
+      "name": "Cambodia",
+      "language": "Khmer",
+      "continent": "Asia"
+    },
+    {
+      "id": "31",
+      "name": "Cameroon",
+      "language": "English, French",
+      "continent": "Africa"
+    },
+    {
+      "id": "32",
+      "name": "Canada",
+      "language": "English, French",
+      "continent": "North America"
+    },
+    {
+      "id": "33",
+      "name": "Central African Republic",
+      "language": "French, Sango",
+      "continent": "Africa"
+    },
+    {
+      "id": "34",
+      "name": "Chad",
+      "language": "French, Arabic",
+      "continent": "Africa"
+    },
+    {
+      "id": "35",
+      "name": "Chile",
+      "language": "Spanish",
+      "continent": "South America"
+    },
+    {
+      "id": "36",
+      "name": "China",
+      "language": "Mandarin",
+      "continent": "Asia"
+    },
+    {
+      "id": "37",
+      "name": "Colombia",
+      "language": "Spanish",
+      "continent": "South America"
+    },
+    {
+      "id": "38",
+      "name": "Comoros",
+      "language": "Comorian, Arabic, French",
+      "continent": "Africa"
+    },
+    {
+      "id": "39",
+      "name": "Congo (Congo-Brazzaville)",
+      "language": "French, Lingala",
+      "continent": "Africa"
+    },
+    {
+      "id": "40",
+      "name": "Costa Rica",
+      "language": "Spanish",
+      "continent": "North America"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
